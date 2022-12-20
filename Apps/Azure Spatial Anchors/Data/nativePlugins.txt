@@ -1,0 +1,12 @@
+CoarseRelocUW.dll
+AzureSpatialAnchors.dll
+
+openxr_loader.dll
+ObjectTrackerRefinement.dll
+ObjectTrackerDiagnostics.dll
+Microsoft.Azure.ObjectAnchors.dll
+ObjectTrackerApi.dll
+
+ObjectTrackerFusion.dll
+
+VolumeFusionAPI.dll

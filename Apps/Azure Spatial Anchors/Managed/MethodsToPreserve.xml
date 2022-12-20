@@ -1,0 +1,31 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MRTK.Tutorials.GettingStarted.ExplodeViewController">
+			<method name="ToggleExplodedView"/>
+		</type>
+		<type fullname="MRTK.Tutorials.GettingStarted.PartAssemblyController">
+			<method name="ResetPlacement"/>
+		</type>
+		<type fullname="MRTK.Tutorials.GettingStarted.PlacementHintsController">
+			<method name="TogglePlacementHints"/>
+		</type>
+	</assembly>
+	<assembly fullname="Microsoft.MixedReality.Toolkit.SDK" ignoreIfMissing="1">
+		<type fullname="Microsoft.MixedReality.Toolkit.Utilities.Solvers.TapToPlace">
+			<method name="set_SurfaceNormalOffset"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Behaviour">
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
+			<method name="set_enabled"/>
+		</type>
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>

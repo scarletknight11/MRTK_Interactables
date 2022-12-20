@@ -1,0 +1,554 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 17.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\ARM\link.exe
+  	Msvc Compiler Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\ARM\cl.exe
+  
+  	Output directory: D:\Azure Spatial Anchors\Apps\build\bin\ARM\Release
+  	Cache directory: D:\Azure Spatial Anchors\Apps\build\obj\il2cppOutputProject\ARM\Release
+  Il2CppCCalculateTypeValues.cpp
+  Il2CppInteropDataTable.cpp
+  Il2CppCCalculateTypeValues1.cpp
+  GenericMethods6.cpp
+  Il2CppGenericMethodPointerTable.c
+  mscorlib_CodeGen.c
+  Il2CppMetadataUsage.c
+  Il2CppGenericInstDefinitions.c
+  Il2CppTypeDefinitions.c
+  Il2CppCCalculateFieldValues1.cpp
+  Il2CppCCalculateFieldValues.cpp
+  Il2CppCCalculateFieldValues2.cpp
+  Generics28.cpp
+  Il2CppInvokerTable.cpp
+  Generics49.cpp
+  GenericMethods14.cpp
+  Generics47.cpp
+  Generics74.cpp
+  Generics54.cpp
+  GenericMethods3.cpp
+  Generics55.cpp
+  Il2CppGenericClassTable.c
+  Generics41.cpp
+  Il2CppGenericAdjustorThunkTable.c
+  Generics56.cpp
+  GenericMethods10.cpp
+  Generics16.cpp
+  GenericMethods.cpp
+  Il2CppCCWs154.cpp
+  Microsoft.MixedReality.OpenXR.cpp
+  GenericMethods15.cpp
+  GenericMethods1.cpp
+  GenericMethods5.cpp
+  Microsoft.MixedReality.Toolkit4.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit4.cpp(8160): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs153.cpp
+  Unity.InputSystem_CodeGen.c
+  Il2CppGenericMethodTable.c
+  GenericMethods12.cpp
+  Generics39.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics39.cpp(15814): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics84.cpp
+  GenericMethods11.cpp
+  Generics.cpp
+  GenericMethods2.cpp
+  Generics17.cpp
+  GenericMethods17.cpp
+  UnityEngine.CoreModule.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule.cpp(16928): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics73.cpp
+  GenericMethods19.cpp
+  Generics88.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics88.cpp(14128): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib18.cpp
+  Assembly-CSharp.cpp
+  System9.cpp
+  GenericMethods13.cpp
+  Microsoft.MixedReality.Toolkit.SDK7.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK7.cpp(33752): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  GenericMethods7.cpp
+  Il2CppGenericMethodDefinitions.c
+  Generics14.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics14.cpp(13706): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics15.cpp
+  GenericMethods18.cpp
+  Generics90.cpp
+  UnityEngine.CoreModule1.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule1.cpp(9963): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics91.cpp
+  GenericMethods16.cpp
+  Generics18.cpp
+  Generics89.cpp
+  UnityEngine.UIElementsModule_CodeGen.c
+  System.Xml_CodeGen.c
+  Il2CppCCWs134.cpp
+  Generics86.cpp
+  Generics72.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics72.cpp(8911): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnresolvedVirtualCallStubs.cpp
+  Unity.InputSystem10.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem10.cpp(29514): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics95.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics95.cpp(28170): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics9.cpp
+  Generics77.cpp
+  mscorlib1.cpp
+  mscorlib2.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\mscorlib2.cpp(27757): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  System_CodeGen.c
+  mscorlib22.cpp
+  Generics87.cpp
+  Il2CppCCWs133.cpp
+  Microsoft.MixedReality.Toolkit.SDK_CodeGen.c
+  Generics38.cpp
+  mscorlib21.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\mscorlib21.cpp(10584): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Assembly-CSharp1.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Assembly-CSharp1.cpp(14354): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics35.cpp
+  Generics36.cpp
+  Generics37.cpp
+  UnityEngine.CoreModule2.cpp
+  Generics75.cpp
+  Generics94.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics94.cpp(27939): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics92.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics92.cpp(25596): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics93.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Generics93.cpp(20983): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics76.cpp
+  GenericMethods4.cpp
+  mscorlib.cpp
+  Generics40.cpp
+  Microsoft.MixedReality.Toolkit_CodeGen.c
+  mscorlib19.cpp
+  mscorlib23.cpp
+  GenericMethods9.cpp
+  System.Core_CodeGen.c
+  System3.cpp
+  Microsoft.MixedReality.Toolkit.Gltf.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Gltf.cpp(5414): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  GenericMethods8.cpp
+  Microsoft.MixedReality.Toolkit.Providers.OpenXR.cpp
+  Il2CppCCWs158.cpp
+  Il2CppCCTypeValuesTable.cpp
+  Assembly-CSharp2.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\Assembly-CSharp2.cpp(7208): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.CoreModule_CodeGen.c
+  Il2CppCCWs168.cpp
+  Il2CppCCWs10.cpp
+  Il2CppCCWs178.cpp
+  Il2CppCCWs14.cpp
+  mscorlib20.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\mscorlib20.cpp(9596): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppRgctxTable.c
+  System.Runtime.WindowsRuntime.cpp
+  WindowsRuntimeMetadata.cpp
+  Il2CppCCalculateFieldValues3.cpp
+  System4.cpp
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\Source\il2cppOutput\System4.cpp(20349): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+D:\Azure Spatial Anchors\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.XR.ARSubsystems_CodeGen.c
+  Il2CppCCWs159.cpp
+  Il2CppCCWs123.cpp
+  Il2CppCCWs152.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.cpp
+  Il2CppCCFieldValuesTable.cpp
+  Il2CppCCWs132.cpp
+  Il2CppCCWs197.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.cpp
+  UnityEngine.UI_CodeGen.c
+  Il2CppCCWs122.cpp
+  Il2CppCCWs7.cpp
+  RestSharp_CodeGen.c
+  Il2CppCCWs72.cpp
+  Il2CppCCWs70.cpp
+  Il2CppCCWs8.cpp
+  Il2CppCCWs.cpp
+  Il2CppCCWs130.cpp
+  Il2CppCCWs71.cpp
+  Il2CppCCWs51.cpp
+  Il2CppCCWs49.cpp
+  Il2CppCCWs52.cpp
+  Il2CppCCWs160.cpp
+  Unity.TextMeshPro_CodeGen.c
+  Il2CppCCWs9.cpp
+  Il2CppCCWs146.cpp
+  Il2CppCCWs128.cpp
+  Il2CppCCWs124.cpp
+  Il2CppCCWs129.cpp
+  Il2CppCCWs47.cpp
+  Il2CppCCWs125.cpp
+  Il2CppCCWs126.cpp
+  Il2CppCCWs127.cpp
+  Il2CppCCWs135.cpp
+  Il2CppCCWs50.cpp
+  Il2CppCCWs147.cpp
+  Il2CppCCWs131.cpp
+  Il2CppCCWs148.cpp
+  Unity.XR.ARFoundation_CodeGen.c
+  Il2CppCCWs150.cpp
+  Il2CppCCWs13.cpp
+  Il2CppCCWs12.cpp
+  Il2CppCCWs48.cpp
+  Il2CppCCWs151.cpp
+  Il2CppCCWs149.cpp
+  Assembly-CSharp_CodeGen.c
+  Il2CppCCWs190.cpp
+  Il2CppCCWs157.cpp
+  Il2CppCCWs179.cpp
+  Il2CppCCWs58.cpp
+  Il2CppCCWs11.cpp
+  Il2CppCCWs56.cpp
+  Il2CppCCWs143.cpp
+  Il2CppCCWs73.cpp
+  Il2CppCCWs180.cpp
+  Il2CppCCWs53.cpp
+  Il2CppCCWs198.cpp
+  Il2CppCCWs57.cpp
+  Il2CppCCWs54.cpp
+  Il2CppCCWs55.cpp
+  Il2CppCCWs61.cpp
+  Il2CppCCWs60.cpp
+  AzureSpatialAnchors.SDK.Windows.Runtime_CodeGen.c
+  Il2CppCCWs59.cpp
+  Microsoft.MixedReality.OpenXR_CodeGen.c
+  Il2CppCCWs156.cpp
+  Il2CppCCWs196.cpp
+  Il2CppCCWs192.cpp
+  UnityEngine.PhysicsModule.cpp
+  Generics96.cpp
+  Il2CppCCWs121.cpp
+  UnityEngine.AnimationModule.cpp
+  Unity.XR.OpenXR_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.InputSystem_CodeGen.c
+  Il2CppCCWs155.cpp
+  Il2CppCCWs62.cpp
+  Il2CppCCWs137.cpp
+  Il2CppCCWs139.cpp
+  Il2CppCCWs138.cpp
+  WindowsRuntimeMetadata_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Async.cpp
+  Il2CppCCWs142.cpp
+  Il2CppCCWs136.cpp
+  Il2CppCCWs141.cpp
+  Il2CppCCWs120.cpp
+  Il2CppCCWs140.cpp
+  Mono.Security_CodeGen.c
+  Il2CppCCWs145.cpp
+  System.Runtime.WindowsRuntime_CodeGen.c
+  UnityEngine.AudioModule.cpp
+  Il2CppCCWs144.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSimulation_CodeGen.c
+  Il2CppCCWs109.cpp
+  Il2CppCCWs104.cpp
+  Il2CppCCWs108.cpp
+  Il2CppCCWs113.cpp
+  UnityEngine.IMGUIModule_CodeGen.c
+  UnityEngine.TextCoreTextEngineModule_CodeGen.c
+  Il2CppCCWs107.cpp
+  Microsoft.MixedReality.Toolkit.Demos.Gltf.cpp
+  Il2CppCCWs100.cpp
+  Il2CppGenericComDefinitions.cpp
+  Il2CppCCWs110.cpp
+  Il2CppCCWs106.cpp
+  Il2CppCCWs117.cpp
+  Il2CppCCWs101.cpp
+  Il2CppCCWs112.cpp
+  Il2CppCCWs102.cpp
+  Il2CppCCWs116.cpp
+  Il2CppCCWs111.cpp
+  Microsoft.ObjectAnchors.Runtime.Api_CodeGen.c
+  Il2CppCCWs105.cpp
+  System.Xml.Linq_CodeGen.c
+  Il2CppCCWs103.cpp
+  Il2CppCCWs115.cpp
+  Il2CppCCWs118.cpp
+  Il2CppCCWs114.cpp
+  Il2CppCCWs119.cpp
+  Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.cpp
+  UnityEngine.UIElementsNativeModule_CodeGen.c
+  Microsoft.ObjectAnchors.Runtime.Core_CodeGen.c
+  UnityEngine.XRModule_CodeGen.c
+  AzureSpatialAnchors.SDK.Core.Runtime_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SceneSystem_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.InputAnimation_CodeGen.c
+  __Generated_CodeGen.c
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  I18N.Rare_CodeGen.c
+  I18N.CJK_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.OpenXR_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Gltf_CodeGen.c
+  UnityEngine.PhysicsModule_CodeGen.c
+  UnityEngine.TextCoreFontEngineModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.Audio.cpp
+  UnityEngine.SubsystemsModule_CodeGen.c
+  System.Numerics_CodeGen.c
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared_CodeGen.c
+  UnityEngine.AnimationModule_CodeGen.c
+  ControllerSample_CodeGen.c
+  I18N_CodeGen.c
+  UnityEngine.UIModule_CodeGen.c
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsSceneUnderstanding_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Async_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK_CodeGen.c
+  Unity.XR.Management_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput_CodeGen.c
+  I18N.West_CodeGen.c
+  UnityEngine.InputLegacyModule_CodeGen.c
+  UnityEngine.Physics2DModule_CodeGen.c
+  I18N.Other_CodeGen.c
+  UnityEngine.TextRenderingModule_CodeGen.c
+  UnityEngine.AudioModule_CodeGen.c
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  Unity.XR.OpenXR.Features.MockRuntime_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.InspectorFields.cpp
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Extensions.HandPhysics_CodeGen.c
+  Il2CppCodeRegistration.cpp
+  UnityEngine.TerrainModule_CodeGen.c
+  UnityEngine.SpatialTracking_CodeGen.c
+  UnityEngine.TilemapModule_CodeGen.c
+  I18N.MidEast_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Extensions.Tracking_CodeGen.c
+  Unity.XR.OpenXR.Features.ConformanceAutomation_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem_CodeGen.c
+  UnityEngine.VFXModule_CodeGen.c
+  UnityEngine.VideoModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.UX.Interactables_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.CameraSystem_CodeGen.c
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  UnityEngine.InputModule_CodeGen.c
+  System.Configuration_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.Gltf_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.Audio_CodeGen.c
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  Unity.XR.OpenXR.Features.RuntimeDebugger_CodeGen.c
+  System.Runtime.WindowsRuntime.UI.Xaml_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.InspectorFields_CodeGen.c
+  System.Runtime.Serialization_CodeGen.c
+  UnityEngine.VRModule_CodeGen.c
+  UnityEngine.AIModule_CodeGen.c
+  UnityEngine.DirectorModule_CodeGen.c
+  Il2CppMetadataRegistration.c
+  UnityEngine.ImageConversionModule_CodeGen.c
+  Unity.XR.OpenXR.Features.OculusQuestSupport_CodeGen.c
+  UnityEngine.GridModule_CodeGen.c
+  ObjectFiles: 721 of which compiled: 311
+  	Time Compile: 17813 milliseconds Il2CppCCWs134.cpp
+  	Time Compile: 17329 milliseconds Il2CppCCWs153.cpp
+  	Time Compile: 16738 milliseconds Il2CppCCWs133.cpp
+  	Time Compile: 14797 milliseconds Il2CppCCWs154.cpp
+  	Time Compile: 12538 milliseconds mscorlib20.cpp
+  	Time Compile: 12391 milliseconds System3.cpp
+  	Time Compile: 7861 milliseconds Il2CppInvokerTable.cpp
+  	Time Compile: 7361 milliseconds Generics94.cpp
+  	Time Compile: 7310 milliseconds Generics16.cpp
+  	Time Compile: 7055 milliseconds Il2CppCCWs10.cpp
+  Total compilation time: 129390 milliseconds.
+  Creating library D:\Azure Spatial Anchors\Apps\build\obj\il2cppOutputProject\ARM\Release\linkresult_8CC5555FE26EB4778F0265BD82179824\GameAssembly.lib and object D:\Azure Spatial Anchors\Apps\build\obj\il2cppOutputProject\ARM\Release\linkresult_8CC5555FE26EB4778F0265BD82179824\GameAssembly.exp
+  Total link time: 445488 milliseconds.
+  Cleaned up 301 object files.

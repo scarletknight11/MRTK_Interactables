@@ -1,0 +1,24 @@
+D:\Azure Spatial Anchors\Apps\build\bin\ARM\Release\resources.pri
+D:\Azure Spatial Anchors\Apps\build\bin\ARM\Release\AppxManifest.xml
+D:\Azure Spatial Anchors\Apps\build\bin\ARM\Release\Azure Spatial Anchors.build.appxrecipe
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\Azure Spatial Anchors.vcxproj.AssemblyReference.cache
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\Azure Spatial Anchors.vcxproj.CopyComplete
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\ResourceHandlingTask.state
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\Azure Spatial Anchors.vcxproj.GenerateResource.Cache
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\priconfig.xml
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\priconfig.xml.intermediate
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\unfiltered.layout.resfiles
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\unfiltered.layout.resfiles.intermediate
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\filtered.layout.resfiles
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\filtered.layout.resfiles.intermediate
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\excluded.layout.resfiles
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\excluded.layout.resfiles.intermediate
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\resources.resfiles
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\resources.resfiles.intermediate
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\pri.resfiles
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\pri.resfiles.intermediate
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\qualifiers.txt
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\qualifiers.txt.intermediate
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\ProjectArchitectures.txt
+D:\Azure Spatial Anchors\Apps\build\obj\Azure Spatial Anchors\ARM\Release\.winmd_cache\$UnityPlayer.winmd_638047729140000000.json
